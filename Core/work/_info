@@ -1,0 +1,435 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Krishna\Desktop\CSE141L\lab2\Core
+valu
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 DXx4 work 10 alu_v_unit 0 22 fZ[<dU;JjZ5Cg7W8g?N9`3
+Z3 V=NDnAgKz6[aiVXG9ehTU]0
+r1
+!s85 0
+31
+!i10b 1
+!s100 d1_74T@>kI30kXLBI]l_a1
+IHQIISg?zd?Y2C=:`BA=ek2
+Z4 !s105 alu_v_unit
+S1
+Z5 dC:\Users\Krishna\Desktop\CSE141L\lab2\Core
+Z6 w1391927862
+Z7 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/alu.v
+Z8 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/alu.v
+L0 4
+Z9 OV;L;10.1d;51
+Z10 !s108 1391927882.620000
+Z11 !s107 definitions.v|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/alu.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/alu.v|
+!s101 -O0
+Z13 o-work work -O0
+Z14 tSvlog 1
+Xalu_v_unit
+R1
+Z15 VfZ[<dU;JjZ5Cg7W8g?N9`3
+r1
+!s85 0
+31
+!i10b 1
+Z16 !s100 W7jEDmLI30PVYcR]XmDzN1
+Z17 IfZ[<dU;JjZ5Cg7W8g?N9`3
+!i103 1
+S1
+R5
+R6
+R7
+R8
+Z18 Fdefinitions.v
+L1 52
+R9
+R10
+R11
+R12
+!s101 -O0
+R13
+R14
+vcl_decode
+R1
+Z19 DXx4 work 16 cl_decode_v_unit 0 22 W[;3nCZ_D0RV5cBPil]AN2
+Z20 VWL6PdWDJ:3YnL8Qb6HEle3
+r1
+31
+Z21 I3QhY]GeNkG1LVXd]2WP4;1
+S1
+R5
+Z22 w1391916198
+Z23 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/cl_decode.v
+Z24 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/cl_decode.v
+L0 4
+R9
+Z25 !s108 1391919903.762000
+Z26 !s107 definitions.v|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/cl_decode.v|
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/cl_decode.v|
+R13
+R14
+Z28 !s100 0Fddd0OJ<ZHh[6:jGom]o3
+Z29 !s105 cl_decode_v_unit
+!s85 0
+!i10b 1
+!s101 -O0
+Xcl_decode_v_unit
+R1
+Z30 VW[;3nCZ_D0RV5cBPil]AN2
+r1
+31
+Z31 IW[;3nCZ_D0RV5cBPil]AN2
+S1
+R5
+R22
+R23
+R24
+R18
+L1 52
+R9
+R25
+R26
+R27
+R13
+R14
+Z32 !s100 11MeQfJiIQL`:Sh0a8h200
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcl_state_machine
+R1
+Z33 DXx4 work 23 cl_state_machine_v_unit 0 22 C5Uc[MSI`5Si_l62=D5H_1
+Z34 VUaBCnKAPPNX]HQg2[JKL:0
+r1
+31
+Z35 IA>P66=@:MRaLomOA3]bHQ3
+S1
+R5
+Z36 w1391910748
+Z37 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/cl_state_machine.v
+Z38 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/cl_state_machine.v
+L0 3
+R9
+Z39 !s108 1391919903.907000
+Z40 !s107 definitions.v|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/cl_state_machine.v|
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/cl_state_machine.v|
+R13
+R14
+Z42 !s100 ]Y3TlNFB8Ez1bYDeUldPc3
+Z43 !s105 cl_state_machine_v_unit
+!s85 0
+!i10b 1
+!s101 -O0
+Xcl_state_machine_v_unit
+R1
+Z44 VC5Uc[MSI`5Si_l62=D5H_1
+r1
+31
+Z45 IC5Uc[MSI`5Si_l62=D5H_1
+S1
+R5
+Z46 w1391912115
+R37
+R38
+R18
+L1 52
+R9
+R39
+R40
+R41
+R13
+R14
+Z47 !s100 8M@?FM^NT`an__7Gk09kn2
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcore
+R1
+Z48 DXx4 work 11 core_v_unit 0 22 P9C`]Uz1WGAVDMcd5:08B1
+Z49 VFU8FRiCVF6S;X0EHz=;:f1
+r1
+31
+Z50 I`R>SA@X1OkVc>dHR<@[j21
+S1
+R5
+R36
+Z51 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core.v
+Z52 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/core.v
+L0 3
+R9
+Z53 !s108 1391919904.044000
+Z54 !s107 definitions.v|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core.v|
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core.v|
+R13
+R14
+Z56 !s100 ?FEGS`=`1Cz3EhScm[PLH0
+Z57 !s105 core_v_unit
+!s85 0
+!i10b 1
+!s101 -O0
+vcore_flattened
+R1
+Z58 DXx4 work 21 core_flattened_v_unit 0 22 WVZcFn6@h@ge[Mia7OjJ41
+Z59 V?2YSmNZUGzWHGo9WRfOc;0
+r1
+31
+Z60 IVZEb3hX7IXzkfcM4m_VNd1
+S1
+R5
+R36
+Z61 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core_flattened.v
+Z62 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/core_flattened.v
+L0 4
+R9
+Z63 !s108 1391919904.188000
+Z64 !s107 definitions.v|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core_flattened.v|
+Z65 !s90 -reportprogress|30|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core_flattened.v|
+R13
+R14
+Z66 !s100 cXRVMoW<I7YgQ^mIaMOR>2
+Z67 !s105 core_flattened_v_unit
+!s85 0
+!i10b 1
+!s101 -O0
+Xcore_flattened_v_unit
+R1
+Z68 VWVZcFn6@h@ge[Mia7OjJ41
+r1
+31
+Z69 IWVZcFn6@h@ge[Mia7OjJ41
+S1
+R5
+R46
+R61
+R62
+R18
+L1 52
+R9
+R63
+R64
+R65
+R13
+R14
+Z70 !s100 Wl:7e]g5d6J5S6Zo8W[D>1
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcore_tb
+R1
+Z71 DXx4 work 14 core_tb_v_unit 0 22 bgO[EGOJ6H3g]fWLP980W0
+Z72 VlN3iUPNV?OYGNgj@DJaoE2
+r1
+31
+Z73 IlYE5Z1HEnUf`hmz4SVCIZ0
+Z74 !s105 core_tb_v_unit
+S1
+R5
+Z75 w1391922147
+Z76 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core_tb.v
+Z77 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/core_tb.v
+L0 8
+R9
+Z78 !s108 1391922189.384000
+Z79 !s107 definitions.v|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core_tb.v|
+Z80 !s90 -reportprogress|300|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/core_tb.v|
+R13
+R14
+Z81 !s100 2eYHeE7<gIo[MjGjNeh>K3
+!s85 0
+!i10b 1
+!s101 -O0
+Xcore_tb_v_unit
+R1
+Z82 VbgO[EGOJ6H3g]fWLP980W0
+r1
+31
+Z83 IbgO[EGOJ6H3g]fWLP980W0
+S1
+R5
+R75
+R76
+R77
+R18
+L1 52
+R9
+R78
+R79
+R80
+R13
+R14
+Z84 !s100 lKB]II9MBG=MZW2<D2b632
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+Xcore_v_unit
+R1
+Z85 VP9C`]Uz1WGAVDMcd5:08B1
+r1
+31
+Z86 IP9C`]Uz1WGAVDMcd5:08B1
+S1
+R5
+R46
+R51
+R52
+R18
+L1 52
+R9
+R53
+R54
+R55
+R13
+R14
+Z87 !s100 n8A^Q95@S]<KZlWZDE]N41
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vdata_mem
+R1
+Z88 DXx4 work 15 data_mem_v_unit 0 22 :GJEoD79<2dW^FBFY4e790
+Z89 VC=Z:MaGk?IS]i@oNzETcd1
+r1
+31
+Z90 IMT>9Y[Ik<FKITQE3<[ngV2
+S1
+R5
+R36
+Z91 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/data_mem.v
+Z92 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/data_mem.v
+L0 11
+R9
+Z93 !s108 1391919904.478000
+Z94 !s107 definitions.v|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/data_mem.v|
+Z95 !s90 -reportprogress|30|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/data_mem.v|
+R13
+R14
+Z96 !s100 H4h?zl1LliH@3BUc2]b?L0
+Z97 !s105 data_mem_v_unit
+!s85 0
+!i10b 1
+!s101 -O0
+Xdata_mem_v_unit
+R1
+Z98 V:GJEoD79<2dW^FBFY4e790
+r1
+31
+Z99 I:GJEoD79<2dW^FBFY4e790
+S1
+R5
+R46
+R91
+R92
+R18
+L1 52
+R9
+R93
+R94
+R95
+R13
+R14
+Z100 !s100 N[?gNiQPKTY>khGbEF3Of3
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+Xdefinitions_v_unit
+R1
+Z101 IlgTlJC43N6Oac3MJSeEPf1
+Z102 VlgTlJC43N6Oac3MJSeEPf1
+S1
+R5
+R46
+Z103 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/definitions.v
+Z104 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/definitions.v
+L0 52
+R9
+r1
+31
+R13
+R14
+Z105 !s100 SLAQf6YZ>hBYO0Ka`gI5@0
+Z106 !s108 1391919904.742000
+Z107 !s107 C:/Users/Krishna/Desktop/CSE141L/lab2/Core/definitions.v|
+Z108 !s90 -reportprogress|30|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/definitions.v|
+!i10b 1
+!i103 1
+!s85 0
+!s101 -O0
+vinstr_mem
+R1
+Z109 DXx4 work 16 instr_mem_v_unit 0 22 5lh?WGh6hSB<kVPVhTCeH2
+Z110 VSd;<IKJMIhRhf_HkX2]nA2
+r1
+31
+Z111 IJj8d5i>95HLL1PV4W2k<;0
+S1
+R5
+R36
+Z112 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/instr_mem.v
+Z113 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/instr_mem.v
+L0 5
+R9
+Z114 !s108 1391919904.894000
+Z115 !s107 definitions.v|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/instr_mem.v|
+Z116 !s90 -reportprogress|30|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/instr_mem.v|
+R13
+R14
+Z117 !s100 S[Sn3BhB=kSNcQhPHkI;N1
+Z118 !s105 instr_mem_v_unit
+!s85 0
+!i10b 1
+!s101 -O0
+Xinstr_mem_v_unit
+R1
+Z119 V5lh?WGh6hSB<kVPVhTCeH2
+r1
+31
+Z120 I5lh?WGh6hSB<kVPVhTCeH2
+S1
+R5
+R46
+R112
+R113
+R18
+L1 52
+R9
+R114
+R115
+R116
+R13
+R14
+Z121 !s100 iW@WIOSPDF1c?iHDLijZ@1
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vreg_file
+R1
+Z122 I36Y;XPFo3Jz2LQHX[5o2L3
+Z123 VD74VOFVKJXa3lQF`;:Obz1
+S1
+R5
+R36
+Z124 8C:/Users/Krishna/Desktop/CSE141L/lab2/Core/reg_file.v
+Z125 FC:/Users/Krishna/Desktop/CSE141L/lab2/Core/reg_file.v
+L0 2
+R9
+r1
+31
+R13
+R14
+Z126 !s100 NoiV=IA:OgRXSG<G`IFE90
+Z127 !s105 reg_file_v_unit
+Z128 !s108 1391919905.027000
+Z129 !s107 C:/Users/Krishna/Desktop/CSE141L/lab2/Core/reg_file.v|
+Z130 !s90 -reportprogress|30|-work|work|C:/Users/Krishna/Desktop/CSE141L/lab2/Core/reg_file.v|
+!i10b 1
+!s85 0
+!s101 -O0
